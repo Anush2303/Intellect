@@ -1,0 +1,12 @@
+.tab{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.title{
+    margin-right:50%;
+    text-align: left;
+}
+.right{
+    margin-right:2%;
+}
